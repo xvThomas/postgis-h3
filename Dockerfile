@@ -1,4 +1,3 @@
-# FROM postgis/postgis:15-3.3
 FROM postgis/postgis:15-3.4
 
 
